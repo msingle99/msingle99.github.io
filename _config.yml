@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Michael Singleton"
-  avatar           : "/images/me.jpg"
+  avatar           : "/_images/me.jpg"
   bio              : "Data Science Portfolio"
   location         : "Lexington, KY, USA"
   email            :
